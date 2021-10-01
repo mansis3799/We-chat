@@ -1,0 +1,15 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mansi Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.2.0",
+    "soket.io": "^0.0.1-security"
+  },
+  "description": ""
+}

@@ -1,0 +1,66 @@
+*{
+    margin:0px;
+    padding:0px;
+    background-color: azure;
+}
+.nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    height:70px;
+    width:70px;
+}
+.container{
+    border:2px solid black;
+    border-radius: 4px;
+    height:450px;
+    width:45%;
+}
+.container{
+    display: block;
+    margin:auto;
+    overflow-y:auto;  
+    background-color:black;
+}
+.message{
+    border:1px solid rgb(167,226,25);
+    border-radius: 8px;
+    margin:12px 10px;
+    padding:5px;
+}
+.left{
+   float:left;
+   clear:both;
+   background-color:rgb(167,226,25);
+   color:black;
+}
+.right{
+  float:right;
+  clear:both;
+  background-color: rgb(167,226,25);
+  color:black;
+}
+.bottom{
+  display: block;
+  text-align: center;
+  padding:4px;
+  margin:4px;
+  outline: none;
+  /* height:34px;*/
+} 
+.text{
+  border:1px solid black;
+  border-radius:4px;
+  width:43%;
+  height:25px;
+}
+.button{
+    border:1px solid black;
+    border-radius:4px;
+    cursor:pointer;
+    height:25px;
+}
+  
